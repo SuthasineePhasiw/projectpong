@@ -1,0 +1,127 @@
+.box1{
+    position: absolute;
+    width: 480px;  
+    height: 250px; 
+    left:200px ;
+    top: 300px; 
+    background-color: #ED1B24 ;
+    padding: 20px; 
+    border-radius: 5px;
+}
+
+.box2{
+    position: absolute;
+    width: 492px;  
+    height: 230px; 
+    left:756px ;
+    top: 319px; 
+    background-color: #2F363E ;
+    padding: 20px; 
+    border-radius: 5px;
+}
+.box3{
+    position: absolute;
+    width: 530px;
+    height: 165px;
+    left: 200px;
+    top: 620px;
+    background: #C01422;
+    border-radius: 5px;
+}
+.box4{
+    position: absolute;
+    width: 530px;
+    height: 163px;
+    left: 756px;
+    top: 620px;
+    background: #00A652;
+    border-radius: 5px;
+
+}
+.p2{
+    font-family: TH SarabunPSK;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 30px;
+    line-height: 38px;
+    text-align: center;
+    color: #FFFFFF;
+}
+.p3{
+    font-family: TH SarabunPSK;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 60px;
+    line-height: 38px;
+    text-align: 80px;
+    color: #FFFFFF;
+}
+.p4{
+    font-family: TH SarabunPSK;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 60px;
+    line-height: 50px;
+    text-align: 80px;
+    color: #FFFFFF;
+}
+
+.p5{
+    font-family: TH SarabunPSK;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 44px;
+    line-height: 30px;
+    text-align: 100px;
+    color: #FFFFFF;
+}
+
+.p6{
+    font-family: TH SarabunPSK;
+font-style: normal;
+font-weight: bold;
+font-size: 60px;
+line-height: 0px;
+text-align: center;
+color: #000000;
+}
+.p7{
+    position: absolute;
+width: 569px;
+height: 81px;
+left: 451px;
+top: 110px;
+
+font-family: TH SarabunPSK;
+font-style: normal;
+font-weight: bold;
+font-size: 60px;
+line-height: 96px;
+text-align: center;
+
+color: #000000;
+
+}
+.p8{
+position: absolute;
+width: 195px;
+height: 29px;
+left: 1180px;
+top: 55px;
+font-family: TH SarabunPSK;
+font-style: normal;
+font-weight: bold;
+font-size: 30px;
+line-height: 40px;
+text-align: center;
+color: #000000;
+}
+.style1{
+position: absolute;
+width: 680px;
+height: 0px;
+left: 393px;
+top: 170px;
+border: 1px solid #000000;
+
+}

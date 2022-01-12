@@ -1,0 +1,411 @@
+.p1{
+    position: relative;
+    font-family: TH SarabunPSK;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 30px;
+    line-height: 38px;
+    text-align: center;
+    color: #FFFFFF;
+}
+
+.box1{
+width: 575px;
+height: 115px;
+left: 385px;
+top: 274px;
+background: #394048;
+margin: 0 auto;
+border-radius: 10px;
+
+}
+.p2{
+position: absolute;
+width: 206.6px;
+height: 50.03px;
+left: 480px;
+top: 250px;
+text-align: 60px;
+font-family: TH SarabunPSK;
+font-style: normal;
+font-weight: bold;
+font-size: 32px;
+line-height: 38px;
+color: #FFFFFF;
+}
+
+.p3{
+   
+position: absolute;
+width: 204px;
+height: 34px;
+left: 480px;
+top: 290px;
+font-family: TH Sarabun New;
+font-style: normal;
+font-weight: normal;
+font-size: 28px;
+line-height: 43px;
+
+color: #FFFFFF;
+
+
+}
+
+.p4{
+    /* เลขบัตรประจำตัวประชาชน : */
+
+    position: relative;
+
+top: -20px;
+font-family: TH SarabunPSK;
+font-style: normal;
+font-weight: bold;
+font-size: 32px;
+line-height: 41px;
+text-align: center;
+
+color: #000000;
+
+
+}
+.p34{ 
+    position: relative;
+    top : -15px ;
+    left: 15px;
+    font-family: TH SarabunPSK;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 32px;
+    line-height: 38px;
+
+    color: #FFFFFF;
+
+}
+
+.p35{ 
+    position: relative;
+    top : -150px ;
+    left: 15px;
+    font-family: TH SarabunPSK;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 30px;
+    line-height: 38px;
+
+    color: #FFFFFF;
+
+}
+.p36{ 
+    position: relative;
+    top : -90px ;
+    left: 480px;
+    font-family: TH SarabunPSK;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 25px;
+    line-height: 38px;
+
+    color: #FFFFFF;
+
+}
+.p37{ 
+    position:relative;
+    top : -20px;
+
+    font-family: TH SarabunPSK;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 40px;
+    line-height: 38px;
+
+    color: #000000;
+
+}
+.p38{ 
+    position: relative;
+    top : 150px ;
+    left: 60px;
+    font-family: TH SarabunPSK;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 30px;
+    line-height: 70px;
+
+    color: #FFFFFF;
+
+}
+
+.p40{ 
+    position:relative;
+    top : 100px;
+    left: 600px;
+    font-family: TH SarabunPSK;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 26px;
+    line-height: 38px;
+    
+    color: #000000;
+    
+}
+.p41{ 
+    position:relative;
+    top : 70px;
+    left: 450px;
+    font-family: TH SarabunPSK;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 26px;
+    line-height: 38px;
+    
+    color: #000000;
+    
+}
+.p42{ 
+    position:relative;
+    top : 40px;
+    left: 600px;
+    font-family: TH SarabunPSK;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 26px;
+    line-height: 38px;
+    
+    color: #000000;
+    
+}
+.p43{ 
+    position:relative;
+    top : 10px;
+    left: 650px;
+    font-family: TH SarabunPSK;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 26px;
+    line-height: 38px;
+    
+    color: #000000;
+    
+}
+.p44{ 
+    position:relative;
+    top : -25px;
+    left: 635px;
+    font-family: TH SarabunPSK;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 26px;
+    line-height: 38px;
+    
+    color: #000000;
+    
+}
+.p45{ 
+    position:relative;
+    top : -85px;
+    left: 595px;
+    font-family: TH SarabunPSK;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 26px;
+    line-height: 38px;
+    
+    color: #000000;
+    
+}
+.p46{ 
+    position:relative;
+    top : -115px;
+    left: 547px;
+    font-family: TH SarabunPSK;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 26px;
+    line-height: 38px;
+    
+    color: #000000;
+    
+}
+.p47{ 
+    position:relative;
+    top : -140px;
+    left: 625px;
+    font-family: TH SarabunPSK;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 26px;
+    line-height: 38px;
+    
+    color: #000000;
+    
+}
+.p48{ 
+    position:relative;
+    top : -165px;
+    left: 590px;
+    font-family: TH SarabunPSK;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 26px;
+    line-height: 38px;
+    
+    color: #000000;
+    
+}
+.p49{ 
+    position:relative;
+    top : -165px;
+    left: 608px;
+    font-family: TH SarabunPSK;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 26px;
+    line-height: 38px;
+    
+    color: #000000;
+    
+}
+.p50{ 
+    position:relative;
+    top : -180px;
+    left: 588px;
+    font-family: TH SarabunPSK;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 26px;
+    line-height: 38px;
+    
+    color: #000000;
+    
+}
+.p51{ 
+    position:relative;
+    top : -195px;
+    left: 700px;
+
+    
+}
+.box3{
+    /*staruss*/
+position:absolute;
+width: 314px;
+height: 44px;
+left: 650px;
+top: 200px;
+background: #FFFFFF;
+border: 1px solid #000000;
+box-sizing: border-box;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+.box4{
+    /*idcard*/
+position: relative;
+width: 314px;
+height: 44px;
+left: 615px;
+top: 395px;
+background: #FFFFFF;
+border: 1px solid #000000;
+box-sizing: border-box;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+.box5{
+    /*firstanme*/
+position: absolute;
+width: 314px;
+height: 44px;
+left: 615px;
+top: 473px;
+background: #FFFFFF;
+border: 1px solid #000000;
+box-sizing: border-box;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+.box6{
+    /*lastname*/
+position: absolute;
+width: 314px;
+height: 44px;
+left: 615px;
+top: 551px;
+background: #FFFFFF;
+border: 1px solid #000000;
+box-sizing: border-box;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+.box7{
+    /*birthdate*/
+position: absolute;
+width: 314px;
+height: 44px;
+left: 615px;
+top: 629px;
+background: #FFFFFF;
+border: 1px solid #000000;
+box-sizing: border-box;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+.box8{
+    /*esx*/
+position: absolute;
+width: 314px;
+height: 44px;
+left: 615px;
+top: 707px;
+background: #FFFFFF;
+border: 1px solid #000000;
+box-sizing: border-box;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+
+}
+
+.box9{
+    /*housenumber*/
+position: absolute;
+width: 314px;
+height: 44px;
+left: 615px;
+top: 707px;
+background: #FFFFFF;
+border: 1px solid #000000;
+box-sizing: border-box;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+
+}
+
+.box10{
+    /*villagenumber*/
+position: absolute;
+width: 314px;
+height: 44px;
+left: 719px;
+top: 790px;
+background: #FFFFFF;
+border: 1px solid #000000;
+box-sizing: border-box;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+.box11{
+    /*villagenumber*/
+position: absolute;
+width: 314px;
+height: 44px;
+left: 719px;
+top: 867px;
+background: #FFFFFF;
+border: 1px solid #000000;
+box-sizing: border-box;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+
+
+
+
